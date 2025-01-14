@@ -1,8 +1,12 @@
 This project was bootstrapped with [Create React App]
+
+
 This program shows the menu for an Italian restaurant named Di Vici’s. 
 It will display the various food items with its category, description and price. 
 It will also show the average wait time based on the day of the week and time of day. 
 The various dishes a stored in a Json file. Index.js calls the App component. 
+
+
 The App component calls the banner, header, menu, wait time and footer components. 
 The banner component receives as a props  variable the name of the restaurant it then returns the restaurant’s name with a background image.  
 The header component simply returns the word “Menu”. 
