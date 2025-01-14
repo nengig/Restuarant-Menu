@@ -1,0 +1,75 @@
+
+[
+    { 
+        "name": "Caesar Salad", 
+        "description": "Fresh romaine lettuce with Caesar dressing", 
+        "price": 8.49, 
+        "category": "Appetizer"
+    },
+    { 
+        "name": "Garden Salad", 
+        "description": "Fresh  iceberg lettuce, sliced Roma tomatoes, red onions, black olives and croutons in house dressing", 
+        "price": 8.99, 
+        "category": "Appetizer"
+    },
+    { 
+        "name": "Italian Wedding Soup", 
+        "description": "Chicken broth, mini meatballs, confetti pasta and spinach", 
+        "price": 7.99, 
+        "category": "Appetizer"
+    },
+    { 
+        "name": "Garlic Tomato Soup", 
+        "description": "Tomato purée with roasted garlic in a vegetarian broth", 
+        "price": 7.49, 
+        "category": "Appetizer"
+    },
+
+    {   "name": "Spaghetti", 
+        "description": "Delicious spaghetti with tomato sauce", 
+        "price": 12.99, 
+        "category": "Main Course"
+    },
+    {   
+        "name": "Ravioli", 
+        "description": " Fresh pasta in an Alfredo sauce with tomatoes, garlic and arugula", 
+        "price": 13.49, 
+        "category": "Main Course"
+    },
+    {   
+        "name": "Penne", 
+        "description": "Penne with Italian sausage and  roasted red and green peppers with Arrabbiata sauce", 
+        "price": 12.49, 
+        "category": "Main Course"
+    },
+    { 
+        "name": "10'' Meatlovers Pizza", 
+        "description": "Made with pepperoni, spicy Italian sausage, ham and bacon", 
+        "price": 11.99, 
+        "category": "Main Course"
+    },
+    {   "name": "10'' Cheese Pizza", 
+        "description": "Plain Cheese Pizza", 
+        "price": 11.49,
+         "category": "Main Course"
+    },
+
+    { 
+        "name": "Brownies", 
+        "description": "Served with whipped topping", 
+        "price": 5.49, 
+        "category": "Dessert"
+    },
+    { 
+        "name": "Tiramisu", 
+        "description": "Finished with a caramel drizzle", 
+        "price": 5.69, 
+        "category": "Dessert"
+    },
+    { 
+        "name": "Cheesecake", 
+        "description": "Served with berries puree", 
+        "price": 6.09, 
+        "category": "Dessert"
+    }
+]
